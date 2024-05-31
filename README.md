@@ -63,7 +63,7 @@ If you have any questions or concerns, please feel free to contact us.
 
 If you like this project and want to support its development, please consider making a donation.
 
-- [PayPal](https://paypal.me/yourusername)
+- [PayPal](https://paypal.me)
 - [Bitcoin](bitcoin:yourbitcoinaddress)
 - [Ethereum](ethereum:yourethereumaddress)
 
